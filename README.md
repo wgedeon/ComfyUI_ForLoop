@@ -16,3 +16,10 @@ The two values are output at the end.
 * Once the processing is done in the "body" (between the start and end node) the updated data for that value would be fed into the initialisation port of the end node
 
 * the flow of control between the two nodes will ensure the transfer of the updated data in the next loop iteration.
+
+## Custom node packages used in this workflow
+
+* **[ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use)**: A comprehensive node package that simplifies and enhances many common ComfyUI tasks.
+* **[ComfyUI-Various](https://github.com/jamesWalker55/comfyui-various)**: A collection of various utility nodes for image, primitive, and color operations.
+
+Ensure these are installed in your `ComfyUI/custom_nodes` directory for the workflow to function correctly. Or use the **[ComfyUI-Manager]( https://github.com/Comfy-Org/ComfyUI-Manager).
