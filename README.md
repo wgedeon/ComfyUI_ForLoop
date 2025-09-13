@@ -22,4 +22,5 @@ The two values are output at the end.
 * **[ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use)**: A comprehensive node package that simplifies and enhances many common ComfyUI tasks.
 * **[ComfyUI-Various](https://github.com/jamesWalker55/comfyui-various)**: A collection of various utility nodes for image, primitive, and color operations.
 
-Ensure these are installed in your `ComfyUI/custom_nodes` directory for the workflow to function correctly. Or use the **[ComfyUI-Manager]( https://github.com/Comfy-Org/ComfyUI-Manager)**.
+Ensure these are installed in your `ComfyUI/custom_nodes` directory for the workflow to function correctly.
+Or use the **[ComfyUI-Manager]( https://github.com/Comfy-Org/ComfyUI-Manager)** to install them.
