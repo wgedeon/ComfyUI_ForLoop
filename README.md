@@ -5,7 +5,7 @@ The two values are output at the end.
 
 ## Main concepts to grasp
 
-* The flow connector links the start and end nodes
+* Use the flow ports to link the start and end nodes, this enables the flow of control between them.
 
 * Each value is initialised at the input of the start node, and is served at the output of the start node to be consumed at each iteration
 
