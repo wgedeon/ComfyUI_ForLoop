@@ -1,6 +1,10 @@
 # ComfyUI_ForLoop
-Simple workflow showing how to use the For Loop nodes in ComfyUI. It uses two values, an integer for value1, and a string for value2.
+Simple workflow showing how to use the For Loop nodes in ComfyUI.
+
+It uses two values, an integer for value1, and a string for value2.
+
 The integer is incremented by one on each iteration, and concatenated to the string with a separator.
+
 The two values are output at the end.
 
 ## Main concepts to grasp
